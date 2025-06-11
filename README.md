@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Muskaan!
+# 👋 Namaste, I'm Muskaan!
 
 ✨ मुस्कान ✨
 Finding bugs🪲 so that you don't have to.
