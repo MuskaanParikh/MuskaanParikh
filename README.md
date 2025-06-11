@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi there, I'm Muskaan!
 
-<!--
-**MuskaanParikh/MuskaanParikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ मुस्कान ✨
+Finding bugs🪲 so that you don't have to.
+✨️ Test Automation Engineer ✨️| b.ignited
 
-Here are some ideas to get you started:
+I'm a curious and driven problem solver who enjoys building smart, efficient solutions that improve how things work behind the scenes. 💡  
+I find real satisfaction in digging into complex issues, streamlining processes, and writing clean, reliable code that makes a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with others and believe some of the best ideas come from collaboration 💙 — but I’m just as comfortable rolling up my sleeves and tackling things on my own.  
+I thrive in environments where I’m challenged, surrounded by great people, and always learning something new. 📚
+
+For me, it’s all about learning, growing, and making things better together. ✨🚀
+
+---
+
+## 🛠️ Languages & Technologies
+
+`TEST AUTOMATION`
+  - Playwright
+  -	Cypress
+  -	REST Assured
+  -	SpecFlow
+  -	Cucumber
+  -	Appium
+  -	Maestro
+  -	JEST
+  -	Gatling
+  -	Selenium
+  -	JMeter
+  -	Vitest
+
+`FRONT END`
+  -	Javascript
+  -	HTML5
+  -	CSS
+  -	Typescript
+  -	React
+  -	AngularJs
+  -	AngularTs
+
+`BACKEND`
+  -	.NET (C#)
+  -	Java ( + Java Spring Framework)
+  -	SQL
+  -	C
+  -	BASH scripting
+  -	R
+  -	Kotlin
+  - Python (in progress) 
+  
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out — whether it's to collaborate, chat tech, or just say hi!
+
+- [LinkedIn](https://www.linkedin.com/in/muskaanparikh/)
+- [Email](muskaan.parikh@bignited.be)
