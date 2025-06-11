@@ -56,4 +56,4 @@ For me, it’s all about learning, growing, and making things better together. �
 Feel free to reach out — whether it's to collaborate, chat tech, or just say hi!
 
 - [LinkedIn](https://www.linkedin.com/in/muskaanparikh/)
-- [Email](muskaan.parikh@bignited.be)
+- [Email](mailto:muskaan.parikh@bignited.be)
