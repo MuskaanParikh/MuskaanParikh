@@ -29,6 +29,7 @@ For me, itâ€™s all about learning, growing, and making things better together. â
   -	Selenium
   -	JMeter
   -	Vitest
+  -	RobotFramework
 
 `FRONT END`
   -	Javascript
